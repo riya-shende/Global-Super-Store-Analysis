@@ -55,7 +55,7 @@ By a landslide, Standard Class is the preferred method of shipment and perhaps t
 
 ## Recommendations
 
-1. Focus on Technology sub-category and Phones and Copies as they are highest selling and most profitable. Bundle them with the less profitable products such as Envelopes, Supplies, Lables, Fasteners and Tables to offset the losses.
+1. In case of Category, Technology is leading in terms of sales and profit. Sub-category such as Phones and Copies as they are highest selling and most profitable. Bundle them with the less profitable products such as Envelopes, Supplies, Lables, Fasteners and Tables to offset the losses.
 2. Selling Machines and Tables result in huge losses, so Super Store has to consider to bundle them together with High Selling or Profitable sub-category such as Binders, Storage, Art and Paper products.
 3. For Home Offices customers, these people might be busy with work and less likely to spend time selecting individual products, so create a Home Office package with products used for offices such as table, chairs, phone, copiers, storage, label, fasteners, bookcases.
 4. For loss-making products like Envelopes, Supplies, Lables, Fasteners and Tables consider to either drop these from the catalogue or change suppliers and bargain for cheaper price.
