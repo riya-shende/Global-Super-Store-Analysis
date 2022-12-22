@@ -53,7 +53,7 @@ By a landslide, Standard Class is the preferred method of shipment and perhaps t
 1. The most profitable region is western Europe 
 2. On the other hand, the least profitable region is Central Asia, Western Africa and Western Asia.
 
-## Recommendations
+## CONCLUSION
 
 1. In case of Category, Technology is leading in terms of sales and profit. Sub-category such as Phones and Copies as they are highest selling and most profitable. Bundle them with the less profitable products such as Envelopes, Supplies, Lables, Fasteners and Tables to offset the losses.
 2. Selling Machines and Tables result in huge losses, so Super Store has to consider to bundle them together with High Selling or Profitable sub-category such as Binders, Storage, Art and Paper products.
