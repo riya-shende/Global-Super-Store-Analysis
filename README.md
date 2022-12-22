@@ -29,3 +29,12 @@ Let’s analyse the bar plots:
 1. Phones and Copies are Top 2 best selling sub-category.
 2. Copiers produces most profit, followed by Phones, Bookcases, Appliances and Chairs. The marketing strategy has to focus on marketing these products.
 3. On the other Envelopes, Supplies, Lables, Fasteners and Tables make close to zero margin to losses. These are products that Super Store can consider dropping from the product catalogue or increase the sale price and profit margin or bargain for a lower price from the supplier.
+
+### Top Selling Sub-Category
+![1 (3)](https://user-images.githubusercontent.com/121208667/209081137-a4e87e26-09c0-4ec6-8265-4cbc0d010fc2.png)
+
+Here, we can deduce that
+1. Super Store should ensure inventory are always well-stocked for the top selling sub-category such as Binders, Storage, Art and Paper.
+2. On the other hand, Tables makes the least profit as well as sell the least i.e. only 3k
+
+![1 (3)](https://user-images.githubusercontent.com/121208667/209082548-9c591943-03a6-498b-b21d-938e42ef4167.png)
