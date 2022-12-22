@@ -10,7 +10,7 @@ The data set contains three tables namely - Orders, People and Returns.
 3. Returns table contains 173 rows and 3 columns
 
 ## CONCLUSION
-### The Best Selling and Most Profitable Category
+### A) The Best Selling and Most Profitable Category
 ![1 (2)](https://user-images.githubusercontent.com/121208667/209071415-1854068d-fbec-4308-8bfd-25a0d19229db.png)
 ![1 (2)](https://user-images.githubusercontent.com/121208667/209071756-b34415b0-0d6f-4b8f-8127-2d67590f38a1.png)
 ![1 (5)](https://user-images.githubusercontent.com/121208667/209073088-d9e3fb0e-5a55-40cb-918d-d0487bf1e0a7.png)
@@ -21,7 +21,7 @@ The data set contains three tables namely - Orders, People and Returns.
 4. Offices Supplies sells the most in terms of quantity as it is relatively cheap product.
 
 
-### The Best Selling and Most Profitable Sub-Category
+### B) The Best Selling and Most Profitable Sub-Category
 ![1 (3)](https://user-images.githubusercontent.com/121208667/209075661-fe255ace-78bb-451a-8495-a69d0d2959d5.png)
 ![1 (3)](https://user-images.githubusercontent.com/121208667/209076488-9e09da07-fbc5-4e93-8671-33ba591fce4f.png)
 
@@ -30,11 +30,19 @@ Let’s analyse the bar plots:
 2. Copiers produces most profit, followed by Phones, Bookcases, Appliances and Chairs. The marketing strategy has to focus on marketing these products.
 3. On the other Envelopes, Supplies, Lables, Fasteners and Tables make close to zero margin to losses. These are products that Super Store can consider dropping from the product catalogue or increase the sale price and profit margin or bargain for a lower price from the supplier.
 
-### Top Selling Sub-Category
+### C) Top Selling Sub-Category
 ![1 (3)](https://user-images.githubusercontent.com/121208667/209081137-a4e87e26-09c0-4ec6-8265-4cbc0d010fc2.png)
 
 Here, we can deduce that
 1. Super Store should ensure inventory are always well-stocked for the top selling sub-category such as Binders, Storage, Art and Paper.
 2. On the other hand, Tables makes the least profit as well as sell the least i.e. only 3k
 
+### D) Customer Segment is Most Profitable
 ![1 (3)](https://user-images.githubusercontent.com/121208667/209082548-9c591943-03a6-498b-b21d-938e42ef4167.png)
+
+Consumer segment is most profitable, followed by Corporate Segment and Home Office. Hence, marketing strategy has to target or place more focus on retaining Consumer and Corporate Segment customers.
+
+### E) Preferred Ship Mode
+![1 (3)](https://user-images.githubusercontent.com/121208667/209092273-983fccfd-2b6f-4949-bba6-6d2348ae9736.png)
+
+By a landslide, Standard Class is the preferred method of shipment and perhaps the cheapest one too. The other modes are not popular among the customers and may be too costly.
