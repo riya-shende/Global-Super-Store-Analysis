@@ -48,7 +48,15 @@ Consumer segment is most profitable, followed by Corporate Segment and Home Offi
 By a landslide, Standard Class is the preferred method of shipment and perhaps the cheapest one too. The other modes are not popular among the customers and may be too costly.
 
 ### F) Most Profitable Region
-![1 (2)](https://user-images.githubusercontent.com/121208667/209093648-99ac4235-6de9-4366-89ee-27a0700c44b8.png)
+![1 (2)](https://user-images.githubusercontent.com/121208667/209095737-b5c3ec59-914d-4b77-832a-c2b39ef0df20.png)
 
 1. The most profitable region is western Europe 
 2. On the other hand, the least profitable region is Central Asia, Western Africa and Western Asia.
+
+## Recommendations
+
+1. Focus on Technology sub-category and Phones and Chairs as they are highest selling and most profitable. Bundle them with the less profitable products such as Bookcases, Table and Chairs to offset the losses.
+2. Selling Bookcases and Tables result in huge losses, so Super Store has to consider to bundle them together with High Selling or Profitable sub-category such as Chairs, Copiers, Phones and Office Supplies products.
+3. For Home Offices customers, these people might be busy with work and less likely to spend time selecting individual products, so create a Home Office package with products used for offices such as table, chairs, phone, copiers, storage, label, fasteners, bookcases.
+4. For loss-making products like Supplies, Bookcases, Tables, consider to either drop these from the catalogue or change suppliers and bargain for cheaper price.
+5. Consumer and Corporate Segment make up more than 70% of customerbase. Target them, especially customers from the East and West region in the Top 10 cities with Highest Sales by introducing special promotions and bundles for mass Consumer and Home Offices and send promotional emails or flyers.
