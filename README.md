@@ -5,6 +5,8 @@ Global Super Store is a small retail business. They sell Furniture, Office Suppl
 
 ## DATA SET
 The data set contains three tables namely - Orders, People and Returns.
+
+Download the dataset from https://www.kaggle.com/datasets/shekpaul/global-superstore
 1. Orders table contains 51290 rows and 24 columns
 2. People table contains 13 rows and 2 columns
 3. Returns table contains 173 rows and 3 columns
