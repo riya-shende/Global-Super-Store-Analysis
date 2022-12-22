@@ -10,7 +10,7 @@ The data set contains three tables namely - Orders, People and Returns.
 3. Returns table contains 173 rows and 3 columns
 
 ## CONCLUSION
-### Category which is Best Selling and Most Profitable
+### The Best Selling and Most Profitable Category
 ![1 (2)](https://user-images.githubusercontent.com/121208667/209071415-1854068d-fbec-4308-8bfd-25a0d19229db.png)
 ![1 (2)](https://user-images.githubusercontent.com/121208667/209071756-b34415b0-0d6f-4b8f-8127-2d67590f38a1.png)
 ![1 (5)](https://user-images.githubusercontent.com/121208667/209073088-d9e3fb0e-5a55-40cb-918d-d0487bf1e0a7.png)
