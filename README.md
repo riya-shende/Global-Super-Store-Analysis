@@ -46,3 +46,9 @@ Consumer segment is most profitable, followed by Corporate Segment and Home Offi
 ![1 (3)](https://user-images.githubusercontent.com/121208667/209092273-983fccfd-2b6f-4949-bba6-6d2348ae9736.png)
 
 By a landslide, Standard Class is the preferred method of shipment and perhaps the cheapest one too. The other modes are not popular among the customers and may be too costly.
+
+### F) Most Profitable Region
+![1 (2)](https://user-images.githubusercontent.com/121208667/209093648-99ac4235-6de9-4366-89ee-27a0700c44b8.png)
+
+1. The most profitable region is western Europe 
+2. On the other hand, the least profitable region is Central Asia, Western Africa and Western Asia.
