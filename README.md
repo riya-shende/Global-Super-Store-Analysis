@@ -39,7 +39,7 @@ Here, we can deduce that
 1. Super Store should ensure inventory are always well-stocked for the top selling sub-category such as Binders, Storage, Art and Paper.
 2. On the other hand, Tables makes the least profit as well as sell the least i.e. only 3k
 
-### D) Customer Segment is Most Profitable
+### D) Most Profitable Customer Segment
 ![1 (3)](https://user-images.githubusercontent.com/121208667/209082548-9c591943-03a6-498b-b21d-938e42ef4167.png)
 
 Consumer segment is most profitable, followed by Corporate Segment and Home Office. Hence, marketing strategy has to target or place more focus on retaining Consumer and Corporate Segment customers.
