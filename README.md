@@ -1,4 +1,4 @@
-# Global-Super-Store-Data-Analyst-Project
+# Global Super Store 
 
 ## INTRODUCTION
 Global Super Store is a small retail business. They sell Furniture, Office Supplies and Technology products. Their customers are the mass Consumer, Corporate and Home Offices. Our task is to analyse the sales data and identify weak areas and opportunities for Global Super Store to boost business growth.
