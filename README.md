@@ -1,15 +1,15 @@
 # Global Super Store 
 
-## INTRODUCTION
+## Introduction
 Global Super Store is a small retail business. They sell Furniture, Office Supplies and Technology products. Their customers are the mass Consumer, Corporate and Home Offices. Our task is to analyse the data and identify weak areas and opportunities for Global Super Store to boost business growth.
 
-## DATA SET
+## Data Set
 The data set contains three tables namely - Orders, People and Returns.
 1. Orders table contains 51290 rows and 24 columns
 2. People table contains 13 rows and 2 columns
 3. Returns table contains 173 rows and 3 columns
 
-## INSIGHTS 
+## Insights 
 ### A) The Best Selling and Most Profitable Category
 ![1 (2)](https://user-images.githubusercontent.com/121208667/209071415-1854068d-fbec-4308-8bfd-25a0d19229db.png)
 ![1 (2)](https://user-images.githubusercontent.com/121208667/209071756-b34415b0-0d6f-4b8f-8127-2d67590f38a1.png)
@@ -53,7 +53,7 @@ By a landslide, Standard Class is the preferred method of shipment and perhaps t
 1. The most profitable region is western Europe 
 2. On the other hand, the least profitable region is Central Asia, Western Africa and Western Asia.
 
-## CONCLUSION
+## Conclusion
 
 1. In case of Category, Technology is leading in terms of sales and profit. Sub-category such as Phones and Copies as they are highest selling and most profitable. Bundle them with the less profitable products such as Envelopes, Supplies, Lables, Fasteners and Tables to offset the losses.
 2. Selling Machines and Tables result in huge losses, so Super Store has to consider to bundle them together with High Selling or Profitable sub-category such as Binders, Storage, Art and Paper products.
